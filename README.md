@@ -83,7 +83,7 @@
 4. Start the development server:
    
    ```bash
-  npm run dev "Vite" OR npm start "Create-react-app"
+   npm run dev "Vite" OR npm start "Create-react-app"
 
 5. Open the app in your browser:
    
