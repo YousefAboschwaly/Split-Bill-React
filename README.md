@@ -68,12 +68,11 @@
 
    ```bash
    git clone https://github.com/YousefAboschwaly/Split-Bill-React.git
-   cd Split-Bill-React
    
 2. Navigate to the project directory:
    
    ```bash
-   cd travel-list-app
+   cd Split-Bill-React
    
 3. Install dependencies:
    
